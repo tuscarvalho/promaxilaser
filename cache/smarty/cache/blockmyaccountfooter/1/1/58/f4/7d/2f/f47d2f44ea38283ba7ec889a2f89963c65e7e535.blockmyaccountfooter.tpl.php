@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '7444590251514f62d6-35712514',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5903430bb0fe67_04603530',
+  'unifunc' => 'content_59035855e02e18_00464156',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5903430bb0fe67_04603530')) {function content_5903430bb0fe67_04603530($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59035855e02e18_00464156')) {function content_59035855e02e18_00464156($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/promaxilaser/index.php?controller=my-account" title="Gerenciar minha conta de usuário" rel="nofollow">Minha Conta</a></h4>

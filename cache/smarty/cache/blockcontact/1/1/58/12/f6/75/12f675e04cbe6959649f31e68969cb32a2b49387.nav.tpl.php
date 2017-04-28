@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '2637159025151b2a913-52459104',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5903430bcf90c1_32491904',
+  'unifunc' => 'content_59035856007229_95323511',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5903430bcf90c1_32491904')) {function content_5903430bcf90c1_32491904($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_59035856007229_95323511')) {function content_59035856007229_95323511($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://localhost/promaxilaser/index.php?controller=contact" title="Fale conosco">Fale conosco</a>
 </div>
 	<span class="shop-phone">
