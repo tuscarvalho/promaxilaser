@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '198235902515059a7c6-27844843',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5903386f12da58_85939951',
+  'unifunc' => 'content_590343149fa6e0_67087993',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5903386f12da58_85939951')) {function content_5903386f12da58_85939951($_smarty_tpl) {?>		
+<?php if ($_valid && !is_callable('content_590343149fa6e0_67087993')) {function content_590343149fa6e0_67087993($_smarty_tpl) {?>		
 									
 		
 	
@@ -43,7 +43,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							</a>
 						</div>
 						<a class="quick-view" href="http://localhost/promaxilaser/index.php?id_product=2&amp;controller=product" rel="http://localhost/promaxilaser/index.php?id_product=2&amp;controller=product">
-							<span>Quick view</span>
+							<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
@@ -56,7 +56,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									
 															</div>
 																			<a class="new-box" href="http://localhost/promaxilaser/index.php?id_product=2&amp;controller=product">
-								<span class="new-label">New</span>
+								<span class="new-label">Novo</span>
 							</a>
 																	</div>
 										
@@ -79,11 +79,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=2&amp;ipa=7&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Add to cart" data-id-product-attribute="7" data-id-product="2" data-minimal_quantity="1">
-									<span>Add to cart</span>
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=2&amp;ipa=7&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Adicionar" data-id-product-attribute="7" data-id-product="2" data-minimal_quantity="1">
+									<span>Adicionar</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=2&amp;controller=product" title="View">
-							<span>More</span>
+																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=2&amp;controller=product" title="Ver">
+							<span>Mais</span>
 						</a>
 					</div>
 										<div class="product-flags">
@@ -111,7 +111,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							</a>
 						</div>
 						<a class="quick-view" href="http://localhost/promaxilaser/index.php?id_product=3&amp;controller=product" rel="http://localhost/promaxilaser/index.php?id_product=3&amp;controller=product">
-							<span>Quick view</span>
+							<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
@@ -124,7 +124,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									
 															</div>
 																			<a class="new-box" href="http://localhost/promaxilaser/index.php?id_product=3&amp;controller=product">
-								<span class="new-label">New</span>
+								<span class="new-label">Novo</span>
 							</a>
 																	</div>
 										
@@ -147,11 +147,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=3&amp;ipa=13&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Add to cart" data-id-product-attribute="13" data-id-product="3" data-minimal_quantity="1">
-									<span>Add to cart</span>
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=3&amp;ipa=13&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Adicionar" data-id-product-attribute="13" data-id-product="3" data-minimal_quantity="1">
+									<span>Adicionar</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=3&amp;controller=product" title="View">
-							<span>More</span>
+																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=3&amp;controller=product" title="Ver">
+							<span>Mais</span>
 						</a>
 					</div>
 										<div class="product-flags">
@@ -179,7 +179,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							</a>
 						</div>
 						<a class="quick-view" href="http://localhost/promaxilaser/index.php?id_product=4&amp;controller=product" rel="http://localhost/promaxilaser/index.php?id_product=4&amp;controller=product">
-							<span>Quick view</span>
+							<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
@@ -192,7 +192,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									
 															</div>
 																			<a class="new-box" href="http://localhost/promaxilaser/index.php?id_product=4&amp;controller=product">
-								<span class="new-label">New</span>
+								<span class="new-label">Novo</span>
 							</a>
 																	</div>
 										
@@ -215,11 +215,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=4&amp;ipa=16&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Add to cart" data-id-product-attribute="16" data-id-product="4" data-minimal_quantity="1">
-									<span>Add to cart</span>
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=4&amp;ipa=16&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Adicionar" data-id-product-attribute="16" data-id-product="4" data-minimal_quantity="1">
+									<span>Adicionar</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=4&amp;controller=product" title="View">
-							<span>More</span>
+																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=4&amp;controller=product" title="Ver">
+							<span>Mais</span>
 						</a>
 					</div>
 										<div class="product-flags">
@@ -247,7 +247,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							</a>
 						</div>
 						<a class="quick-view" href="http://localhost/promaxilaser/index.php?id_product=5&amp;controller=product" rel="http://localhost/promaxilaser/index.php?id_product=5&amp;controller=product">
-							<span>Quick view</span>
+							<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
@@ -265,7 +265,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									
 															</div>
 																			<a class="new-box" href="http://localhost/promaxilaser/index.php?id_product=5&amp;controller=product">
-								<span class="new-label">New</span>
+								<span class="new-label">Novo</span>
 							</a>
 																	</div>
 										
@@ -294,15 +294,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=5&amp;ipa=19&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Add to cart" data-id-product-attribute="19" data-id-product="5" data-minimal_quantity="1">
-									<span>Add to cart</span>
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=5&amp;ipa=19&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Adicionar" data-id-product-attribute="19" data-id-product="5" data-minimal_quantity="1">
+									<span>Adicionar</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=5&amp;controller=product" title="View">
-							<span>More</span>
+																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=5&amp;controller=product" title="Ver">
+							<span>Mais</span>
 						</a>
 					</div>
 										<div class="product-flags">
-																																	<span class="discount">Reduced price!</span>
+																																	<span class="discount">Oferta!</span>
 												</div>
 																		<span class="availability">
 																	<span class=" label-success">
@@ -327,7 +327,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							</a>
 						</div>
 						<a class="quick-view" href="http://localhost/promaxilaser/index.php?id_product=6&amp;controller=product" rel="http://localhost/promaxilaser/index.php?id_product=6&amp;controller=product">
-							<span>Quick view</span>
+							<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
@@ -340,7 +340,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									
 															</div>
 																			<a class="new-box" href="http://localhost/promaxilaser/index.php?id_product=6&amp;controller=product">
-								<span class="new-label">New</span>
+								<span class="new-label">Novo</span>
 							</a>
 																	</div>
 										
@@ -363,11 +363,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=6&amp;ipa=31&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Add to cart" data-id-product-attribute="31" data-id-product="6" data-minimal_quantity="1">
-									<span>Add to cart</span>
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=6&amp;ipa=31&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Adicionar" data-id-product-attribute="31" data-id-product="6" data-minimal_quantity="1">
+									<span>Adicionar</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=6&amp;controller=product" title="View">
-							<span>More</span>
+																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=6&amp;controller=product" title="Ver">
+							<span>Mais</span>
 						</a>
 					</div>
 										<div class="product-flags">
@@ -395,7 +395,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							</a>
 						</div>
 						<a class="quick-view" href="http://localhost/promaxilaser/index.php?id_product=7&amp;controller=product" rel="http://localhost/promaxilaser/index.php?id_product=7&amp;controller=product">
-							<span>Quick view</span>
+							<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
@@ -413,7 +413,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									
 															</div>
 																			<a class="new-box" href="http://localhost/promaxilaser/index.php?id_product=7&amp;controller=product">
-								<span class="new-label">New</span>
+								<span class="new-label">Novo</span>
 							</a>
 																	</div>
 										
@@ -442,15 +442,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=7&amp;ipa=34&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Add to cart" data-id-product-attribute="34" data-id-product="7" data-minimal_quantity="1">
-									<span>Add to cart</span>
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=7&amp;ipa=34&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Adicionar" data-id-product-attribute="34" data-id-product="7" data-minimal_quantity="1">
+									<span>Adicionar</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=7&amp;controller=product" title="View">
-							<span>More</span>
+																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=7&amp;controller=product" title="Ver">
+							<span>Mais</span>
 						</a>
 					</div>
 										<div class="product-flags">
-																																	<span class="discount">Reduced price!</span>
+																																	<span class="discount">Oferta!</span>
 												</div>
 																		<span class="availability">
 																	<span class=" label-success">
@@ -475,7 +475,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							</a>
 						</div>
 						<a class="quick-view" href="http://localhost/promaxilaser/index.php?id_product=1&amp;controller=product" rel="http://localhost/promaxilaser/index.php?id_product=1&amp;controller=product">
-							<span>Quick view</span>
+							<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
@@ -488,7 +488,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									
 															</div>
 																			<a class="new-box" href="http://localhost/promaxilaser/index.php?id_product=1&amp;controller=product">
-								<span class="new-label">New</span>
+								<span class="new-label">Novo</span>
 							</a>
 																	</div>
 										
@@ -511,11 +511,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=1&amp;ipa=1&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Add to cart" data-id-product-attribute="1" data-id-product="1" data-minimal_quantity="1">
-									<span>Add to cart</span>
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/promaxilaser/index.php?controller=cart&amp;add=1&amp;id_product=1&amp;ipa=1&amp;token=40351d197aaa238058cda43bc56c7afe" rel="nofollow" title="Adicionar" data-id-product-attribute="1" data-id-product="1" data-minimal_quantity="1">
+									<span>Adicionar</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=1&amp;controller=product" title="View">
-							<span>More</span>
+																			<a class="button lnk_view btn btn-default" href="http://localhost/promaxilaser/index.php?id_product=1&amp;controller=product" title="Ver">
+							<span>Mais</span>
 						</a>
 					</div>
 										<div class="product-flags">
